@@ -1,0 +1,12 @@
+Buen dia
+
+
+Yo desarrolle la calculadora en ubuntu con JDK 15, al probar con otra pc que tenia otra version no abre,
+"java.lang.UnsupportedClassVersionError: paquete/calculadora has been compiled by a more recent version of the Java Runtime (class file version 59.0), 
+this version of the Java Runtime only recognizes class file versions up to 55.0"
+
+Pero al actualizar a 15, hizo correctamente todo.
+
+Igual se adjunta imagenes de prueba que esta funcionando correctamente.
+
+
